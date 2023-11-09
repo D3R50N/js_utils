@@ -14,7 +14,7 @@ git clone https://github.com/D3R50N/js_utils.git
 
 ## How to Use
 
-### 1. [multi_await.js](https://github.com/D3R50N/js_utils/blob/main/src/multi_await.js)
+### 1. [multi_await.js](https://github.com/D3R50N/js_utils/blob/master/src/multi_await.js)
 
 #### Description
 
